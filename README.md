@@ -5,16 +5,16 @@
 
 **Web Developer · AI Enthusiast · Problem Solver**
 
-![Kenya](https://img.shields.io/badge/🌍_Kenya-0d1117?style=flat-square&color=0d1117&labelColor=0d1117)
-![Learning in Public](https://img.shields.io/badge/🎓_Learning_in_Public-blue?style=flat-square)
-![Open to Work](https://img.shields.io/badge/💼_Open_to_Work-brightgreen?style=flat-square)
+![Kenya](https://img.shields.io/badge/_Kenya-0d1117?style=flat-square&color=0d1117&labelColor=0d1117)
+![Learning in Public](https://img.shields.io/badge/_Learning_in_Public-blue?style=flat-square)
+![Open to Work](https://img.shields.io/badge/_Open_to_Work-brightgreen?style=flat-square)
 ![React](https://img.shields.io/badge/Building_Apps_with_React-61DAFB?style=flat-square&logo=react&logoColor=black)
 
 </div>
 
 ---
 
-## 👩🏾‍💻 About Me
+##  About Me
 
 I'm Lornah a developer from Kenya who got into coding through pure curiosity.
 It started with AI. I kept reading about machine learning, how computers could learn, see, and think and I was completely fascinated. I realised the only way to truly understand it was to learn how to build it myself. So I did. One concept at a time, one project at a time.
@@ -32,7 +32,7 @@ lornah = {
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -43,7 +43,7 @@ lornah = {
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### Pet Adoption App
 > *A web platform for connecting pets with loving homes — currently being converted into a mobile app*
@@ -81,16 +81,16 @@ lornah = {
 
 ---
 
-## 🌱 What I'm Working On
+##  What I'm Working On
 
-- 📱 Converting **react-capstone** from a web app to a **mobile app**
-- 🤖 Studying AI fundamentals through the Microsoft AI-For-Beginners curriculum
-- 🐍 Building more real-world projects with **Python & Django**
-- 💡 Growing **UlinziMind** — mental health tech matters
+-  Converting **react-capstone** from a web app to a **mobile app**
+-  Studying AI fundamentals through the Microsoft AI-For-Beginners curriculum
+-  Building more real-world projects with **Python & Django**
+-  Growing **UlinziMind** — mental health tech matters
 
 ---
 
-## 💼 Let's Work Together
+##  Let's Work Together
 
 I'm available for **freelance**, **collaborations**, and **full-time opportunities** in web/app development, AI, or Python.
 
