@@ -16,8 +16,11 @@
 
 ## 👩🏾‍💻 About Me
 
-I'm a developer from **Kenya** building real-world products across **web**, **mobile**, **AI**, and **data**.  
-I don't just write code — I build things people actually use.
+I'm Lornah a developer from Kenya who got into coding through pure curiosity.
+It started with AI. I kept reading about machine learning, how computers could learn, see, and think and I was completely fascinated. I realised the only way to truly understand it was to learn how to build it myself. So I did. One concept at a time, one project at a time.
+Now I build things that sit at the intersection of technology and real human need a mental health platform for people who can't access therapy, a pet adoption app to give animals a home, AI systems that can recognise faces. I don't just want to write code. I want the things I build to matter to someone in Kenya, in Africa, in the world.
+When I'm not coding, you'll find me lost in a book, writing something down, or playing music. I'm also slowly getting into fitness turns out building discipline in the gym and building discipline as a developer aren't that different.
+I honestly feel like I'm just getting started!
 
 ```python
 lornah = {
